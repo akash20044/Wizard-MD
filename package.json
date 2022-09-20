@@ -1,7 +1,7 @@
 {
   "name": "wizard",
   "version": "1.0.0",
-  "description": "Multi device whatsapp bot by Ajmal",
+  "description": "Multi device whatsapp bot by Surya",
   "main": "starter.js",
   "type": "commonjs",
   "scripts": {
@@ -92,10 +92,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ajmal-Achu/Wizard-MD.git"
+    "url": "git+https://github.com/akash20044/Wizard-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/Ajmal-Achu/Wizard-MD/issues"
+    "url": "https://github.com/akash20044/Wizard-MD/issues"
   },
-  "homepage": "https://github.com/Ajmal-Achu/Wizard-MD#readme"
+  "homepage": "https://github.com/akash20044/Wizard-MD#readme"
 }
